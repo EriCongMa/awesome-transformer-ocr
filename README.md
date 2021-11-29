@@ -3,7 +3,7 @@
 
 [toc]
 
-- [Annotation for Symbols and  Abbreviations](##Annotation-for-Symbols-and-Abbreviations)
+- [Annotation for Symbols and  Abbreviations](#Annotation-for-Symbols-and-Abbreviations)
 
 This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~!
 
