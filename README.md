@@ -8,6 +8,7 @@
 - [Papers for Transformer based OCR](#Papers-for-Transformer-based-OCR )
 - [Papers for Non-Transformer based OCR or OCR related](#Papers-for-Non-Transformer-based-OCR-or-OCR-related )
 - [Code Collection](#Code-Collection)
+- [Dataset Collection](#Dataset-Collection)
 - [Related Awesome Resource](#Related-Awesome-Resource)
 
 This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~! We also have another repository collecting Artificial Intelligence related interesting materials: [AI Collections](https://github.com/EriCongMa/AI_Collections).
@@ -37,6 +38,10 @@ This repository is constructed to share current progress of transformer based op
 
   - ArXiv, May 7, 2020
 
+- [Scene Text Detection and Recognition: The Deep Learning Era](https://www.semanticscholar.org/paper/Scene-Text-Detection-and-Recognition%3A-The-Deep-Era-Long-He/448af285816be4cd1c2526f8f1526691eb2a3ee7)
+
+  - ICCV, 2020
+
 - [A *Survey* of *Deep* *Learning* *Approaches* for *OCR* and *Document* *Understanding*](https://www.semanticscholar.org/paper/A-Survey-of-Deep-Learning-Approaches-for-OCR-and-Subramani-Matton/54cbabd7bbe22eb56ccb87a0d0e190eb689fc984)
 
   - ArXiv, Nov. 27, 2020
@@ -55,12 +60,18 @@ This repository is constructed to share current progress of transformer based op
   - ArXiv, Sep. 21,  2021
   - code:  [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)
   - Label: TrOCR
+- [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
+  - STR
+  - PR, 2021
+
+- [Transformer for Handwritten Text Recognition Using Bidirectional Post-decoding](https://www.semanticscholar.org/paper/Transformer-for-Handwritten-Text-Recognition-Using-Wick-Zöllner/acc7a60621389a44d0a025f54d103bb5cf17a9df)
+  - HTR
+  - ICDAR, 2021
+
 - [Rescoring Sequence-to-Sequence Models for Text Line Recognition with CTC-Prefixes](https://www.semanticscholar.org/paper/Rescoring-Sequence-to-Sequence-Models-for-Text-Line-Wick-Zöllner/cb19d721495924e2abf51bf58821face74dfb8c7)
   - TLR
   - ArXiv, Oct. 12, 2021
-
 - [*Utilizing* *Resource*-*Rich* *Language* *Datasets* for *End*-to-*End* *Scene* *Text* *Recognition* in *Resource*-*Poor**Languages*](https://www.semanticscholar.org/paper/Utilizing-Resource-Rich-Language-Datasets-for-Scene-Orihashi-Yamazaki/2e78e6ef3d78c3419d644c1e6f82e21493e8a513) 
-
   - Scene Text Recognition (STR)
   - Nov. 24, 2021
 - [*TRIG*: *Transformer*-*Based* *Text* *Recognizer* with *Initial* *Embedding* *Guidance*](https://www.semanticscholar.org/paper/TRIG%3A-Transformer-Based-Text-Recognizer-with-Tao-Jia/060a5e9905937e4830ea8529e53cbc3e0b939cdf)
@@ -70,13 +81,17 @@ This repository is constructed to share current progress of transformer based op
 - [Vision Transformer for Fast and Efficient Scene Text Recognition](https://www.semanticscholar.org/paper/Vision-Transformer-for-Fast-and-Efficient-Scene-Atienza/fd68411473b8ddbfc869b8dee2d6107742fc4ab4)
   - STR
   - May 18, 2021
+- [Bidirectional Scene Text Recognition with a Single Decoder](https://www.semanticscholar.org/paper/Bidirectional-Scene-Text-Recognition-with-a-Single-Bleeker-Rijke/88367b31c60def29a4546c4cb7b33d6484c785f4)
+  - STR
+  - ECAI, 2020
 
 - [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://www.semanticscholar.org/paper/Pay-Attention-to-What-You-Read%3A-Non-recurrent-Kang-Riba/051f06ddda9db448e1710539bff6ebe7275daadf)
   - TLR
   - ArXiv, 2020
+- [Text Recognition in Images Based on Transformer with Hierarchical Attention](https://www.semanticscholar.org/paper/Text-Recognition-in-Images-Based-on-Transformer-Zhu-Wang/45af13e3e9d8ce9f368b8c7b13e231b581ea0443)
+  - ICIP, 2019
 
 - [*MASTER*: *Multi*-*Aspect* *Non*-*local* *Network* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
-
   - STR
   - PR, Oct. 7, 2019
 - [*NRTR*: A No-*Recurrence* *Sequence*-to-*Sequence* *Model* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/NRTR%3A-A-No-Recurrence-Sequence-to-Sequence-Model-Sheng-Chen/7a6787790b2aeab4cd29659708f54a223ff08d94)
@@ -161,10 +176,18 @@ This repository is constructed to share current progress of transformer based op
 
 
 
+## Dataset Collection
+
+- [The IAM-database: an English sentence database for offline handwriting recognition](https://www.semanticscholar.org/paper/The-IAM-database%3A-an-English-sentence-database-for-Marti-Bunke/04a10e1b25f35a9ac1a4d4344bfbdb34b253cb59)
+  - International Journal on Document Analysis and Recognition, 2002
+
+
+
 ## Related Awesome Resource
 
 - [PaddlePaddle/Paddle*OCR*](https://github.com/PaddlePaddle/PaddleOCR)
 - [hwalsuklee/*awesome*-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)
+- [Jyouhou](https://github.com/Jyouhou)/**[SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers)**
 - [kba/*awesome*-*ocr*](https://github.com/kba/awesome-ocr)
 - [wanghaisheng/*awesome*-*ocr*](https://github.com/wanghaisheng/awesome-ocr)
 - Still updating ... (Welcome to comment more excellent resource in this [issue](https://github.com/EriCongMa/awesome-transformer-ocr/issues/1))
