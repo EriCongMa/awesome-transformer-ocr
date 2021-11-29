@@ -36,7 +36,9 @@ This repository is constructed to share current progress of transformer based op
 
 
 
-## Papers for Transformer based OCR (Title-Link | Main Task | Date in [Semantic Scholar](https://www.semanticscholar.org))
+## Papers for Transformer based OCR 
+
+(Title-Link | Main Task | Date in [Semantic Scholar](https://www.semanticscholar.org))
 
 - ✨ [*TrOCR*: *Transformer*-*based* *Optical* *Character* *Recognition* with *Pre*-*trained* *Models*](https://www.semanticscholar.org/paper/TrOCR%3A-Transformer-based-Optical-Character-with-Li-Lv/61fbb66eeeca49fff8c0230296b2207fe546ea38)
 
@@ -68,7 +70,9 @@ This repository is constructed to share current progress of transformer based op
 
 
 
-## Papers for Non-Transformer based OCR or OCR related (Title-Link | Main Task | Date in [Semantic Scholar](https://www.semanticscholar.org) )
+## Papers for Non-Transformer based OCR or OCR related 
+
+(Title-Link | Main Task | Date in [Semantic Scholar](https://www.semanticscholar.org) )
 
 - [*STRIVE*: *Scene* *Text* *Replacement* In *Videos*](https://www.semanticscholar.org/paper/STRIVE%3A-Scene-Text-Replacement-In-Videos-VijayKumarB.-Subramanian/1e775ad5219572ef06ddcabf13df55e030dd5380)
   - Scene text synthesis
