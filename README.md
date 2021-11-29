@@ -190,5 +190,7 @@ This repository is constructed to share current progress of transformer based op
 - [Jyouhou](https://github.com/Jyouhou)/**[SceneTextPapers](https://github.com/Jyouhou/SceneTextPapers)**
 - [kba/*awesome*-*ocr*](https://github.com/kba/awesome-ocr)
 - [wanghaisheng/*awesome*-*ocr*](https://github.com/wanghaisheng/awesome-ocr)
+- [TianzhongSong](https://github.com/TianzhongSong)/**[awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)**
+- [ZumingHuang](https://github.com/ZumingHuang)/**[awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources)**
 - Still updating ... (Welcome to comment more excellent resource in this [issue](https://github.com/EriCongMa/awesome-transformer-ocr/issues/1))
 
