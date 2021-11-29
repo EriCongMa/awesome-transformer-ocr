@@ -4,6 +4,11 @@
 [toc]
 
 - [Annotation for Symbols and  Abbreviations](#Annotation-for-Symbols-and-Abbreviations)
+- [Survey](#survey)
+- [Papers for Transformer based OCR](#Papers-for-Transformer-based-OCR )
+- [Papers for Non-Transformer based OCR or OCR related](#Papers-for-Non-Transformer-based-OCR-or-OCR-related )
+- [Code Collection](#Code-Collection)
+- [Related Awesome Resource](#Related-Awesome-Resource)
 
 This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~!
 
