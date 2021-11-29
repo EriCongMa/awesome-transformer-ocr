@@ -10,7 +10,7 @@
 - [Code Collection](#Code-Collection)
 - [Related Awesome Resource](#Related-Awesome-Resource)
 
-This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~!
+This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~! We also have another repository collecting Artificial Intelligence related interesting materials: [AI Collections](https://github.com/EriCongMa/AI_Collections).
 
 
 
