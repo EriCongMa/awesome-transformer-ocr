@@ -52,26 +52,33 @@ This repository is constructed to share current progress of transformer based op
 - ✨ [*TrOCR*: *Transformer*-*based* *Optical* *Character* *Recognition* with *Pre*-*trained* *Models*](https://www.semanticscholar.org/paper/TrOCR%3A-Transformer-based-Optical-Character-with-Li-Lv/61fbb66eeeca49fff8c0230296b2207fe546ea38)
 
   - Text Line Recognition (TLR)
-  - Sep. 21,  2021
-
+  - ArXiv, Sep. 21,  2021
   - code:  [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)
   - Label: TrOCR
+- [Rescoring Sequence-to-Sequence Models for Text Line Recognition with CTC-Prefixes](https://www.semanticscholar.org/paper/Rescoring-Sequence-to-Sequence-Models-for-Text-Line-Wick-Zöllner/cb19d721495924e2abf51bf58821face74dfb8c7)
+  - TLR
+  - ArXiv, Oct. 12, 2021
 
 - [*Utilizing* *Resource*-*Rich* *Language* *Datasets* for *End*-to-*End* *Scene* *Text* *Recognition* in *Resource*-*Poor**Languages*](https://www.semanticscholar.org/paper/Utilizing-Resource-Rich-Language-Datasets-for-Scene-Orihashi-Yamazaki/2e78e6ef3d78c3419d644c1e6f82e21493e8a513) 
 
   - Scene Text Recognition (STR)
   - Nov. 24, 2021
-
 - [*TRIG*: *Transformer*-*Based* *Text* *Recognizer* with *Initial* *Embedding* *Guidance*](https://www.semanticscholar.org/paper/TRIG%3A-Transformer-Based-Text-Recognizer-with-Tao-Jia/060a5e9905937e4830ea8529e53cbc3e0b939cdf)
 
   - STR
   - Nov. 13, 2021
+- [Vision Transformer for Fast and Efficient Scene Text Recognition](https://www.semanticscholar.org/paper/Vision-Transformer-for-Fast-and-Efficient-Scene-Atienza/fd68411473b8ddbfc869b8dee2d6107742fc4ab4)
+  - STR
+  - May 18, 2021
+
+- [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://www.semanticscholar.org/paper/Pay-Attention-to-What-You-Read%3A-Non-recurrent-Kang-Riba/051f06ddda9db448e1710539bff6ebe7275daadf)
+  - TLR
+  - ArXiv, 2020
 
 - [*MASTER*: *Multi*-*Aspect* *Non*-*local* *Network* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
 
   - STR
   - PR, Oct. 7, 2019
-
 - [*NRTR*: A No-*Recurrence* *Sequence*-to-*Sequence* *Model* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/NRTR%3A-A-No-Recurrence-Sequence-to-Sequence-Model-Sheng-Chen/7a6787790b2aeab4cd29659708f54a223ff08d94)
 
   - STR
@@ -136,6 +143,10 @@ This repository is constructed to share current progress of transformer based op
   - ICCV 2019, Apr. 3, 2019
   - code: [clovaai/*deep*-*text*-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
   - Label: deep-text
+- [An Efficient End-to-End Neural Model for Handwritten Text Recognition](https://www.semanticscholar.org/paper/An-Efficient-End-to-End-Neural-Model-for-Text-Chowdhury-Vig/56dfa68ec940a25e302564e8b5438cf46ba7bd0d)
+  - HTR
+  - BMVC, 2018
+
 - ✨ [An *End*-to-*End* *Trainable* *Neural* *Network* for *Image*-*Based* *Sequence* *Recognition* and *Its* *Application* to *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/An-End-to-End-Trainable-Neural-Network-for-Sequence-Shi-Bai/8e9149ab00236d04db23394774e716c4f1d89231)
   - STR
   - TPAMI, Jul. 21, 2015
