@@ -1,5 +1,9 @@
 # awesome-transformer-ocr
+## Table Of Contents
+
 [toc]
+
+- [Annotation for Symbols and  Abbreviations](##Annotation-for-Symbols-and-Abbreviations)
 
 This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~!
 
@@ -11,7 +15,7 @@ This repository is constructed to share current progress of transformer based op
 
 
 
-## Annotation for Symbols and  Abbreviations
+## Annotation for Symbols and Abbreviations
 
 - 🙌🏻  denotes 'Help Needed'
 - 😳 denotes 'Sorry for error'
