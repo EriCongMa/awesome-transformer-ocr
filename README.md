@@ -60,14 +60,16 @@ This repository is constructed to share current progress of transformer based op
   - ArXiv, Sep. 21,  2021
   - code:  [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)
   - Label: TrOCR
+- [*Visual*-*Semantic* *Transformer* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/Visual-Semantic-Transformer-for-Scene-Text-Tang-Lai/75235dc4bb53898868f5346c2d77d9eefaea6188)
+  - STR
+  - ArXiv, Dec. 2, 2021
+
 - [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
   - STR
   - PR, 2021
-
 - [Transformer for Handwritten Text Recognition Using Bidirectional Post-decoding](https://www.semanticscholar.org/paper/Transformer-for-Handwritten-Text-Recognition-Using-Wick-Zöllner/acc7a60621389a44d0a025f54d103bb5cf17a9df)
   - HTR
   - ICDAR, 2021
-
 - [Rescoring Sequence-to-Sequence Models for Text Line Recognition with CTC-Prefixes](https://www.semanticscholar.org/paper/Rescoring-Sequence-to-Sequence-Models-for-Text-Line-Wick-Zöllner/cb19d721495924e2abf51bf58821face74dfb8c7)
   - TLR
   - ArXiv, Oct. 12, 2021
@@ -84,13 +86,11 @@ This repository is constructed to share current progress of transformer based op
 - [Bidirectional Scene Text Recognition with a Single Decoder](https://www.semanticscholar.org/paper/Bidirectional-Scene-Text-Recognition-with-a-Single-Bleeker-Rijke/88367b31c60def29a4546c4cb7b33d6484c785f4)
   - STR
   - ECAI, 2020
-
 - [Pay Attention to What You Read: Non-recurrent Handwritten Text-Line Recognition](https://www.semanticscholar.org/paper/Pay-Attention-to-What-You-Read%3A-Non-recurrent-Kang-Riba/051f06ddda9db448e1710539bff6ebe7275daadf)
   - TLR
   - ArXiv, 2020
 - [Text Recognition in Images Based on Transformer with Hierarchical Attention](https://www.semanticscholar.org/paper/Text-Recognition-in-Images-Based-on-Transformer-Zhu-Wang/45af13e3e9d8ce9f368b8c7b13e231b581ea0443)
   - ICIP, 2019
-
 - [*MASTER*: *Multi*-*Aspect* *Non*-*local* *Network* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
   - STR
   - PR, Oct. 7, 2019
