@@ -63,7 +63,6 @@ This repository is constructed to share current progress of transformer based op
 - [*Visual*-*Semantic* *Transformer* for *Scene* *Text* *Recognition*](https://www.semanticscholar.org/paper/Visual-Semantic-Transformer-for-Scene-Text-Tang-Lai/75235dc4bb53898868f5346c2d77d9eefaea6188)
   - STR
   - ArXiv, Dec. 2, 2021
-
 - [MASTER: Multi-Aspect Non-local Network for Scene Text Recognition](https://www.semanticscholar.org/paper/MASTER%3A-Multi-Aspect-Non-local-Network-for-Scene-Lu-Yu/5e0f0cd537d592d249556842ebc5f1cd3ee6a4ef)
   - STR
   - PR, 2021
@@ -80,6 +79,10 @@ This repository is constructed to share current progress of transformer based op
 
   - STR
   - Nov. 13, 2021
+- [*Rethinking* *Text* *Line* *Recognition* *Models*](https://www.semanticscholar.org/paper/Rethinking-Text-Line-Recognition-Models-Diaz-Qin/50e511d2433bbfcdcfcce45f72a4851fae7c4dda)
+  - TLR
+  - Apr. 15, 2021
+
 - [Vision Transformer for Fast and Efficient Scene Text Recognition](https://www.semanticscholar.org/paper/Vision-Transformer-for-Fast-and-Efficient-Scene-Atienza/fd68411473b8ddbfc869b8dee2d6107742fc4ab4)
   - STR
   - May 18, 2021
