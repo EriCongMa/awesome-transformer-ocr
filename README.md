@@ -181,8 +181,28 @@ This repository is constructed to share current progress of transformer based op
 
 ## Dataset Collection
 
-- [The IAM-database: an English sentence database for offline handwriting recognition](https://www.semanticscholar.org/paper/The-IAM-database%3A-an-English-sentence-database-for-Marti-Bunke/04a10e1b25f35a9ac1a4d4344bfbdb34b253cb59)
+- Robust Reading Competition
+  - It has many ICDAR competition datasets and tasks.
+  - Leaderboard and online submission are supported.
+  - https://rrc.cvc.uab.es
+
+- IAM Dataset
+  - Task: 
+    - Handwritten Recognition
+
   - International Journal on Document Analysis and Recognition, 2002
+  - [The IAM-database: an English sentence database for offline handwriting recognition](https://www.semanticscholar.org/paper/The-IAM-database%3A-an-English-sentence-database-for-Marti-Bunke/04a10e1b25f35a9ac1a4d4344bfbdb34b253cb59)
+  - https://github.com/jpuigcerver/Laia/tree/master/egs/iam
+
+- SORIE Dataset
+  - Tasks: 
+    - Scanned Receipt Text Localisation, 
+    - Scanned Receipt OCR, 
+    - Key Information Extraction from Scanned Receipts
+
+  -  ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction
+  - https://rrc.cvc.uab.es/?ch=13
+
 
 
 
