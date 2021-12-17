@@ -202,17 +202,20 @@ This repository is constructed to share current progress of transformer based op
 - ✨ [clovaai/*deep*-*text*-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
 - ✨ [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)
 - ✨ [TextSnake](https://github.com/princewang1994/TextSnake.pytorch) for Scene Text Detection
+- [caffe_ocr](https://github.com/senlinuc/caffe_ocr)
 - [imgtxtenh](https://github.com/mauvilsa/imgtxtenh) - Tool for enhancing noisy scanned text images
 
 
 
 ## Dataset Collection
 
+- Open Handwriting Recognition and Translation Evaluation (OpenHaRT)
+  - https://www.nist.gov/itl/iad/mig/openhart
+  
 - Robust Reading Competition
   - It has many ICDAR competition datasets and tasks.
   - Leaderboard and online submission are supported.
   - https://rrc.cvc.uab.es
-
 - IAM Dataset
   - Task: 
     - Handwritten Recognition
@@ -221,7 +224,6 @@ This repository is constructed to share current progress of transformer based op
   - [The IAM-database: an English sentence database for offline handwriting recognition](https://www.semanticscholar.org/paper/The-IAM-database%3A-an-English-sentence-database-for-Marti-Bunke/04a10e1b25f35a9ac1a4d4344bfbdb34b253cb59)
   - https://fki.tic.heia-fr.ch
   - https://github.com/jpuigcerver/Laia/tree/master/egs/iam
-
 - SORIE Dataset
   - Tasks: 
     - Scanned Receipt Text Localisation, 
@@ -230,7 +232,6 @@ This repository is constructed to share current progress of transformer based op
 
   -  ICDAR 2019 Robust Reading Challenge on Scanned Receipts OCR and Information Extraction
   - https://rrc.cvc.uab.es/?ch=13
-
 - Font Resource
   - Google Handwritten Fonts: https://fonts.google.com/?category=Handwriting
   - 1001 Handwritten Fonts: https://www.1001fonts.com/handwritten-fonts.html?page=1
