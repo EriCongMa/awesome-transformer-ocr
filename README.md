@@ -209,9 +209,15 @@ This repository is constructed to share current progress of transformer based op
 
 ## Dataset Collection
 
+- ICDAR 2021 Competition on Scene Video Text Spotting
+  - https://competitions.codalab.org/competitions/27667#learn_the_details-overview
+  
+- Synthetic Chinese String Dataset
+  - blog introduction: https://blog.csdn.net/MONKEY3233/article/details/104194169
+  - caffe_ocr introduction: https://github.com/senlinuc/caffe_ocr
+  -  准确率是指整串正确的比例,在验证集上统计,"准确率-no lexicon"表示没用词典的准确率，"准确率-lexicon-minctcloss"指先在词典中查找Edit Distance <=2的单词，再选择ctcloss最小的单词作为识别结果
 - Open Handwriting Recognition and Translation Evaluation (OpenHaRT)
   - https://www.nist.gov/itl/iad/mig/openhart
-  
 - Robust Reading Competition
   - It has many ICDAR competition datasets and tasks.
   - Leaderboard and online submission are supported.
