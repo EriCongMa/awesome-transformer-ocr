@@ -9,6 +9,7 @@
 - [Papers for Non-Transformer based OCR or OCR related](#Papers-for-Non-Transformer-based-OCR-or-OCR-related )
 - [Code Collection](#Code-Collection)
 - [Dataset Collection](#Dataset-Collection)
+- [Competition](#Competition)
 - [Related Awesome Resource](#Related-Awesome-Resource)
 
 This repository is constructed to share current progress of transformer based optical character recognition(OCR). Welcome to share~! We also have another repository collecting Artificial Intelligence related interesting materials: [AI Collections](https://github.com/EriCongMa/AI_Collections).
@@ -56,8 +57,11 @@ This repository is constructed to share current progress of transformer based op
 
 (Title-Link | Main Task | Date in [Semantic Scholar](https://www.semanticscholar.org))
 
-- ✨ [*TrOCR*: *Transformer*-*based* *Optical* *Character* *Recognition* with *Pre*-*trained* *Models*](https://www.semanticscholar.org/paper/TrOCR%3A-Transformer-based-Optical-Character-with-Li-Lv/61fbb66eeeca49fff8c0230296b2207fe546ea38)
+- [Transformer-based HTR for Historical Documents](https://arxiv.org/pdf/2203.11008.pdf)
+  - Handwritten Text Recognition (HTR)
+  - ArXiv, Mar. 22, 2022
 
+- ✨ [*TrOCR*: *Transformer*-*based* *Optical* *Character* *Recognition* with *Pre*-*trained* *Models*](https://www.semanticscholar.org/paper/TrOCR%3A-Transformer-based-Optical-Character-with-Li-Lv/61fbb66eeeca49fff8c0230296b2207fe546ea38)
   - Text Line Recognition (TLR)
   - ArXiv, Sep. 21,  2021
   - code:  [TrOCR](https://github.com/microsoft/unilm/tree/master/trocr)
@@ -83,7 +87,6 @@ This repository is constructed to share current progress of transformer based op
 - [*Rethinking* *Text* *Line* *Recognition* *Models*](https://www.semanticscholar.org/paper/Rethinking-Text-Line-Recognition-Models-Diaz-Qin/50e511d2433bbfcdcfcce45f72a4851fae7c4dda)
   - TLR
   - Apr. 15, 2021
-
 - [Vision Transformer for Fast and Efficient Scene Text Recognition](https://www.semanticscholar.org/paper/Vision-Transformer-for-Fast-and-Efficient-Scene-Atienza/fd68411473b8ddbfc869b8dee2d6107742fc4ab4)
   - STR
   - May 18, 2021
@@ -209,9 +212,11 @@ This repository is constructed to share current progress of transformer based op
 
 ## Dataset Collection
 
+- Benchmarking Chinese Text Recognition: Datasets, Baselines, and an Empirical Study
+  - [Semantic Link](https://www.semanticscholar.org/paper/Benchmarking-Chinese-Text-Recognition%3A-Datasets%2C-an-Chen-Yu/cceeb60dec60185773324315329e4debf8bb2972?sort=relevance&citedPapersSort=relevance&citedPapersLimit=10&citedPapersOffset=20)
+
 - ICDAR 2021 Competition on Scene Video Text Spotting
   - https://competitions.codalab.org/competitions/27667#learn_the_details-overview
-  
 - Synthetic Chinese String Dataset
   - blog introduction: https://blog.csdn.net/MONKEY3233/article/details/104194169
   - caffe_ocr introduction: https://github.com/senlinuc/caffe_ocr
@@ -244,6 +249,12 @@ This repository is constructed to share current progress of transformer based op
 
 
 
+## Competition
+
+- [Robust Reading Competition](https://rrc.cvc.uab.es)
+
+
+
 
 ## Related Awesome Resource
 
@@ -254,5 +265,8 @@ This repository is constructed to share current progress of transformer based op
 - [wanghaisheng/*awesome*-*ocr*](https://github.com/wanghaisheng/awesome-ocr)
 - [TianzhongSong](https://github.com/TianzhongSong)/**[awesome-SynthText](https://github.com/TianzhongSong/awesome-SynthText)**
 - [ZumingHuang](https://github.com/ZumingHuang)/**[awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources)**
+- [whitelok](https://github.com/whitelok)/**[image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition)**
+- [janzd](https://github.com/janzd)/**[awesome-scene-text](https://github.com/janzd/awesome-scene-text)**
+- [jackyjsy](https://github.com/jackyjsy)/**[awesome-sign-language-recognition](https://github.com/jackyjsy/awesome-sign-language-recognition)**
 - Still updating ... (Welcome to comment more excellent resource in this [issue](https://github.com/EriCongMa/awesome-transformer-ocr/issues/1))
 
